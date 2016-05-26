@@ -12,10 +12,10 @@ Features built in:
 
 ##Features
 - Detect Face from Camera
-  This project use method: convert Frame to bitmap then use media.FaceDetector detect faces in that bitmap. Have 2 ways to convert Frame to bitmap: convert to gray bitmap or convert to RGB bitmap.
+This project use method: convert Frame to bitmap then use media.FaceDetector detect faces in that bitmap. Have 2 ways to convert Frame to bitmap: convert to gray bitmap or convert to RGB bitmap.
 
   - Gray
-  Convert Frame to gray bitmap so this way has High performance (FPS higher than RGB), butcroped of faces is gray image.
+Convert Frame to gray bitmap so this way has High performance (FPS higher than RGB), butcroped of faces is gray image.
 
     ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/gray.gif)
     
@@ -25,7 +25,7 @@ Features built in:
     ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/rgb.gif)
     
 - Detect Face from Image
-  Load a phôt from Gallery and detect faces in that photo.
+Load a photo from Gallery and detect faces in that photo.
 
   ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/rgb.gif)
   
