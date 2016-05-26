@@ -21,11 +21,13 @@ This project use method: convert Frame to bitmap then use media.FaceDetector det
 
 
 - **Detect Face from Camera**
-  - **Gray**
+
+  - Gray
 
       ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/gray.gif)
     
-  - **RGB**
+    
+  - RGB
 
       ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/rgb.gif)
     
