@@ -13,8 +13,11 @@ Features built in:
 ##Features
 
 This project use method: convert Frame to bitmap then use media.FaceDetector detect faces in that bitmap. Have 2 ways to convert Frame to bitmap: convert to gray bitmap or convert to RGB bitmap.
-  - Convert Frame to gray bitmap so this way has High performance (FPS higher than RGB), butcroped of faces is gray image.
-  - Convert Frame to RGB bitmap, Low performance (FPS lower than Gray), but croped of faces is RGB image.
+
+  1. Convert Frame to gray bitmap so this way has High performance (FPS higher than RGB), butcroped of faces is gray image.
+  
+  2. Convert Frame to RGB bitmap, Low performance (FPS lower than Gray), but croped of faces is RGB image.
+
 
 - Detect Face from Camera
   - Gray
