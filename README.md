@@ -34,6 +34,7 @@ This project use method: convert Frame to bitmap then use media.FaceDetector det
 - **Detect Face from Image**
 
   - Demo
+  
       ![](https://github.com/betri28/FaceDetectCamera/raw/master/image/image.gif)
   
 ##Thanks
